@@ -1,0 +1,9 @@
+[0217/190136:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0217/190136:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0217/190136:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0217/190137:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0217/190140:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0217/190140:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[0217/190417:ERROR:ipc_channel_win.cc(132)] pipe error: 109
